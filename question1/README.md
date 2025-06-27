@@ -1,6 +1,6 @@
 # AffordMed Logging Middleware
 
-It sends logs to the AffordMed API using your access token.
+It  will sends    logs to the  API using   my  access token that i get from the api.
 
 ## Usage
 
